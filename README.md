@@ -1,7 +1,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/8daddbca-dba7-4ddd-949b-cb83f64b8326.svg"
+    srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/e6178a54-644d-46d0-8f62-160fdc92ea73.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
